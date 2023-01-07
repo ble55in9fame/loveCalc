@@ -28,6 +28,7 @@ body{
     min-height: 30vh;
     border:1px solid whitesmoke;
     border-radius: 20px;
+    margin: 5% 8%;
 }
 
 .result{
@@ -60,7 +61,7 @@ legend{
     text-shadow: 1px 1px 0 black;
 }
 input{
-    width: 20vh;
+    width: 40vh;
     height: 5vh;
     border-radius: 20px;
     padding-left: 20px;
